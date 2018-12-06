@@ -154,7 +154,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     switch (action) {
       case 'feedback':
-        var emailUrl = 'mailto:unbiasify@unbiasify.com'
+        var emailUrl = 'mailto:martin.hauck@gmail.com'
         handleTabCreation(emailUrl)
         break
 
